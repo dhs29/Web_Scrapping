@@ -32,15 +32,3 @@ Saving all html DOI crawled pages into Folder.In This function make a directory 
 
 5:(Corresponding Author):
 There are few articles has a corresponding author and email.This function could take year as a parameter and return a dictionary containing the corresponding Author and email which year has.
-
-
-
-
-OUTPUT:
-Folder1:Main Programme Script and Readme.txt
-
-Folder2:Year wise Folder and each folder containing the article’s html pages.
-
-Folder3:Each Year text  file
-
-Folder 4:Report
